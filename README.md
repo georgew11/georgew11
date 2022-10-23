@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabermetric
+- 👋 Hi, I’m @georgew11
 - 👀 I’m interested in data science and its application in sports.
 - 🌱 I’m currently learning SQL, and modeling techniques using Python and R.
 - 💞️ I’m looking to collaborate on football analysis.
